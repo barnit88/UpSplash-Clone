@@ -75,3 +75,7 @@ input:checked + .slider:before {
   background: rgb(43, 1, 1);
   color: rgb(202, 202, 202);
 }
+
+.dark-mode .nav{
+   background: #39105f;
+}
